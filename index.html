@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;
+       charset=utf-8" />
+<style type="text/css">
+body {
+	text-align: center;
+}
+#novelDiv {
+	width: 800px;
+	height: 600px;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	text-align: center;
+}
+
+.menuItem {
+	width: 75%;
+	margin: 0.5em auto;
+	padding: 0.5em 3em;
+	background-color: #0050a0;
+	position: relative;
+	text-align: center;
+	color: white;
+	font-family: "Deja Vu Sans", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+
+div.menuItem:hover {
+	background-color: #00a0ff;
+}
+
+#dialogDiv, #dialogImage {
+	font-family: "Deja Vu Sans", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	position: absolute;
+	top: 450px;
+	left: 40px;
+	width: 720px;
+	height: 160px;
+	color: white;
+	text-align: left;
+	/*
+	filter: alpha(opacity=75);
+	opacity: 0.75;
+    background-image: url(images/dsn_text_box.png);
+	background-repeat: no-repeat;
+*/
+}
+
+.avatar { float: left; }
+
+#ccinfo {
+	border: 1px solid black;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0.5em;
+	font-family: "Deja Vu Sans", Helvetica, Arial, sans-serif;
+	font-size: small;
+}
+</style>
+
+<script type="text/javascript" src="js-vine.js"></script>
+<script type="text/javascript" src="dsn.js"></script>
+
+</head>
+<body onload="initNovel(800, 600);">
+<div id="debug"></div>
+<div id="novelDiv">
+	<div style="position: absolute;
+		left:0; top: 0; z-index:-1">
+		<img id="background0" src="images/empty.png">
+	</div>
+	<div style="position: absolute;
+		left:0; top: 0; z-index:-1">
+		<img id="background1" src="images/empty.png">
+	</div>
+	<div style="position: absolute; top:430px; left:0; z-index:99"><img
+	    src="images/text_box.png"/></div>
+    <div id="dialogDiv" style="z-index:100;"></div>
+</div>
+
+<div style="text-align:center; margin-top: 0.5em;">
+	<img src="images/dsn_menu_button.png" width="150" height="55"
+		alt="Menu" onclick="jump('sectionMenu'); novel.frame += 2; playNovel();"/>
+	<img src="images/dsn_music_button_muted.png" id="musicButton" width="150" height="55"
+		alt="Turn Music On" title="Turn Music On" onclick="musicButtonClicked()" />
+
+</div>
+<div id="ccinfo">
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="images/cc-by-sa-88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">What&#39;s a Distributed Social Network?</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://dsn-test.com/dsn-vn" property="cc:attributionName" rel="cc:attributionURL">J David Eisenberg, Steve Lim, and Mike Yeh</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+</div>
+<map name="ready_dsns_map">
+<area shape="rect" coords="210,227,318,328" alt="Friendica" href="http://friendica.com" target="_new"  />
+<area shape="rect" coords="377,320,569,379" href="https://joindiaspora.com/"
+	target="_new"/>
+<area shape="rect" coords="400,81,679,278" href="http://buddycloud.com/"
+	 target="_new"/>
+</map>
+
+<map name="musicMap" id="musicMap">
+<area  shape="rect" coords="0, 0, 149, 55"
+    href="#" onclick="musicImageClicked()"/>
+</map>
+</body>
+</html>

@@ -1,0 +1,12 @@
+This project is a visual novel that explains what a distributed social network is.
+The files are:
+
+intro_to_dsn.xml - The original script in docbook format
+docbook_to_script.xsl - Transforms script to a first pass at the visual novel script
+
+index.html - The visual novel HTML file
+dsn.js - The visual novel's script
+js-vine.js - The visual novel engine
+images - Images used in the visual novel
+sound - Background music, in three different formats to acommodate most browsers
+original_art - Photoshop and GIMP native format; separates text from the drawings

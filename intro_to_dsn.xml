@@ -1,0 +1,1606 @@
+<?xml version='1.0'?>
+<article>
+	<articleinfo>
+	<title>What are Distributed Social Networks?</title>
+	<author><firstname>J.</firstname><othername>David</othername>
+	<surname>Eisenberg</surname></author>
+	<pubdate>3 October 2010</pubdate>
+	</articleinfo>
+	
+	<sect1>
+	<title>About this Script</title>
+
+	<sect2>
+	<title>Intended Audience</title>
+	<para>
+	The people reading the comic are non-technical
+	Facebook/Twitter/MySpace users who have heard about
+	distributed social networks like
+	Diaspora and want to know what makes them different
+	from the sites they are using now.
+	</para>
+	</sect2>
+
+	<sect2>
+	<title>Script Notation</title>
+	<para>
+	Panel numbers are in the form 
+	<emphasis>page</emphasis>.<emphasis>panel</emphasis>, so
+	3.4 would be page three, panel number four.
+	The abbreviation &#8220;CU&#8221; stands for
+	&#8220;close-up,&#8221; as in a movie script.
+	I&#8217;ve tried to do the pagination so that pages
+	end with a teaser that will make the readers want to
+	turn to the next page. I&#8217;m no layout expert,
+	so the pagination is not set in stone. Fitting text
+	and graphics comfortably on the page may well take
+	precedence.
+	</para>
+	</sect2>
+
+	</sect1>
+
+	<sect1>
+	<title>The Characters</title>
+	<para>
+	<emphasis role="bold">Roberta</emphasis> is the person who knows
+	all about distributed social networks. She is the explainer.
+	</para>
+	
+	<para>
+	<emphasis role="bold">Frank</emphasis> is her co-worker.
+	Frank is the one asking all
+	the questions.
+	</para>
+	
+	<para>Both of them are in the early to late 20s. They
+	are in their office, in business casual
+	clothing.
+	
+	They are drawn as normal comic characters. Roberta is
+	<emphasis>not</emphasis> a &#8220;sex bomb,&#8221; and
+	Frank is not The Mighty Thor. Under no circumstances
+	is either character to be drawn as a nerd/geek archetype. No glasses
+	for either of them. These are humans, not techies.
+	</para>
+	</sect1>
+	
+	<sect1>
+	<title>What are Distributed Social Networks?</title>
+
+	<informaltable frame="all">
+	<tgroup cols="3" align="left" colsep="1" rowsep="1">
+	<colspec colname="panel" colwidth="36pt" />
+	<colspec colname="desc" colwidth="216pt" />
+	<colspec colname="dialog" colwdith="216pt" />
+	<spanspec spanname="hspan" namest="panel" nameend="dialog" />
+	<thead>
+		<row>
+			<entry>Panel</entry>
+			<entry>Description</entry>
+			<entry>Dialogue</entry>
+		</row>
+	</thead>
+	<tbody>
+<!-- insert xml from celtx here-->
+
+<row>
+	<entry>
+		<para>1.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta and Frank, at their computers
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Hey, Roberta, I keep seeing articles popping up all over about this thing.
+</para>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+What thing, Frank?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>1.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, leaning in to his screen
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Something called “distributed social networks.“ I know what social networks are...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>1.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Icons for facebook, twitter, myspace
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Those are sites like Facebook, Twitter, and MySpace.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>1.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, CU.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+But what&#8217;s the big deal about “distributed“? I have online friends from all over the place.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>1.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, turning to Frank
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+The "distributed" refers to where your data lives, and the big deal is that distributed networks put <emphasis>you</emphasis> in control.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>1.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, totally confused. Jaw open, "hypnosis eyes," question marks above head
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Care to explain that in English?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta and Frank, CU. Frank is thinking
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Well, here&#8217;s how a typical social web site works. Let’s call it...
+</para>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Hmm, how about...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, index finger raised, triumphant look on face
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+FriendCenter!
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, with bland look.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Not very creative, but it&#8217;ll do.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Tuan (representative Vietnamese male) at a computer; words "It’s Pizza Time!" are on his screen.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Let’s say your friend Tuan makes a post to FriendCenter.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Diagram showing message going to FriendCenter&#8217;s server (See Figure 1)
+		</para>
+		<figure>
+			<title>Tuan Posting to Central Server</title>
+			<graphic fileref="images/figure1.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			His post goes to FriendCenter’s server.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>2.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, holding up hands in a warding gesture.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Whoa! Don&#8217;t get all technical on me. What exactly is a server?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, pointing at her computer.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Just a huge computer (or bunch of computers) that hold humongous amounts of data. It&#8217;s called a “server” because...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, as a waiter in a fancy restaurant, carrying a pizza
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			...when you ask the server for information, it goes into its “data kitchen” and serves up the data to you.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank in foreground; Tuan and message going to server in background
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+OK, got it. So Tuan makes a post and it goes to FriendCenter’s server.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta CU
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Now when <emphasis>you</emphasis> sign on to FriendCenter...
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Diagram showing Frank signing on (Figure 2)
+		</para>
+		<figure>
+			<title>Frank Signing on to Central Server</title>
+			<graphic fileref="images/figure2.png"></graphic>
+		</figure>
+
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			The server sees that Tuan is in your list of friends
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>3.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank looking at Tuan’s message on terminal; thought balloon has a slice of pizza. Frank is drooling.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			and serves Tuan’s message to you.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>4.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, pointing at Figure 3, showing a graph of all the people and their connections.
+		</para>
+		<figure>
+			<title>Illusion of Network Connections</title>
+			<graphic fileref="images/figure3.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+The illusion is that you are directly connected to Tuan and all your other friends.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>4.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Figure 4 (all users connected to a central server)
+		</para>
+		<figure>
+			<title>Central Server Mediating Connections</title>
+			<graphic fileref="images/figure4.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			In reality, the central server manages all of your interactions.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>4.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank and Roberta
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+So, how are these distributed social networks different?
+</para>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+With a distributed network, there’s no illusion.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>4.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Figure 5 (Tuan &amp; Frank with their own servers)
+		</para>
+		<figure>
+			<title>Tuan and Frank&#8217;s Servers</title>
+			<graphic fileref="images/figure5.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Both you and Tuan have your own servers.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>4.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Figure 6 (Tuan posts to his server)
+		</para>
+		<figure>
+			<title>Tuan Posts to His Server</title>
+			<graphic fileref="images/figure6.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Tuan makes his post, and it goes to <emphasis>his</emphasis> server rather than a central server.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>5.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Figure 7 (link between Frank&#8217;s and Tuan&#8217;s machine)
+		</para>
+		<figure>
+			<title>Frank&#8217;s Server Connects to Tuan&#8217;s Server</title>
+			<graphic fileref="images/figure7.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Your servers communicate directly with each other.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>5.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank looking at Tuan’s message on terminal; thought balloon has a slice of pizza. Frank is drooling.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			So that when you access your server, you see Tuan’s post.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>5.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank &amp; Roberta
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+What if I’m at my cousin George’s house? How do I get to my information?
+</para>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+You access your server from the web, so you can do it anywhere you have an Internet connection.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>5.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, pointing to Figure 8 (entire network)
+		</para>
+		<figure>
+			<title>Distributed Network of Friends</title>
+			<graphic fileref="images/figure8.png"></graphic>
+		</figure>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Your data isn’t centralized—it’s distributed among all the users and their servers.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>5.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, with light bulb going on
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Which is why they call it a <emphasis role="bold">distributed</emphasis> social network
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>6.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, pointing to Figure 8 (entire network), nodding sagaciously.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+That&#8217;s right! In a distributed network, all the data would not be stored in one company&#8217;s server. There&#8217;s no single company in control.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>6.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, medium CU.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+What else makes it better?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>6.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta medium CU, pointing to whiteboard with words “Everyone/Friends of Friends/Friends only"
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+First, there’s privacy. A centralized social network may give you only a few levels of privacy.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>6.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Additional words “Immediate Family/co-workers/Bowling team” shown on whiteboard, crossed out
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+If you want to set up your own groups of friends, you’re out of luck.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>6.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, medium CU
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Also, FriendCenter may choose to change its privacy policies at any time...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Hand pulling back shower curtain to reveal Frank (from chest up) with shampoo in hair, shocked expression on face
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			...revealing information that you might not want others to see!
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, leaning back in chair
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Yeah, I remember back in May 2010, one of the big social networks loosened up its privacy settings.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Mob of angry peasants bearing pitchforks and torches
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			People weren’t very happy about that.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta at whiteboard; no group names crossed out.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+But with a distributed network, because it’s <emphasis>your</emphasis> server, you get to set up your own groups, and your privacy policy changes only when you want it to.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta draws line on whiteboard between co-workers &amp; bowling team.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+So that means the people on your bowling team don&#8217;t have to get messages about things going on at the office.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>7.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta and Frank in frame; Frank is slightly puzzled
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+You also keep control of your data; it stays on your server.
+</para>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Oh, I already keep copies of all my pictures on my hard disk.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>8.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, medium CU
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+You’d be surprised how many people don’t. In any case, when you upload a photo to a centralized network, it goes to their server.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>8.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, holding a document filled with fine print
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+And that means your data is subject to their terms of service. Take a look at this:
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>8.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Closeup of document text (this is from Facebook’s terms of service)
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			You grant us a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any IP content that you post on or in connection with FriendCenter.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>8.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, with jaw agape
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Wow. I never knew that. Gives whole new meaning to “What’s mine is yours.”
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>8.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, medium CU
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+With distributed social networks, “what’s yours is yours.”
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>9.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			[These next panels may be “too much information.”; I have put them on a page by themselves.] Frank, looking slightly panicked.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Wait a moment. This article says that most of these distributed networks are “open source.” Does that mean that all my data is open to the public?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>9.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, with placating look.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+“Open Source” just means that the software that runs the server is openly available for you to look at.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>9.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			In the background is a typical geek working at a computer. This person really does have to look like a techie type.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			So you can see how the software was written and how it works.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>9.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, looking relieved
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Well, since I’m no programmer, there’s no danger of me messing with that!
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>9.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Because your pictures and posts aren’t part of the software, your data is still all yours.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>10.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, thinking out loud
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+So distributed social networks have privacy and data ownership covered. What about security, now that I don’t have a middleman handling it for me?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>10.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Two computers; both their screens say “It’s pizza time!”; a wire in between them has nonsense characters like GH&amp;c^n@%72h$ in it
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			The software encrypts all the traffic among the servers.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>10.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Typical comic book robber opening a safe. Frank, in a policeman’s uniform, is coming out of the top of the safe like a jack-in-the-box with a huge mallet in his hand.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			That keeps the bad guys from getting your data.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>10.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, still skeptical
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+What about the social networks I use now? I can&#8217;t live without Farm Wars<emphasis role="bold"> And Mafiaville</emphasis> And...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>10.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, putting her hand over Frank&#8217;s mouth
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+I got it. You don&#8217;t have to give up your current social networks. Since services like Facebook and Twitter allow programs to read data,...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Graphic showing Facebook, Twitter, and MySpace icons surrounding distributed network icon. Arrows lead out from distributed network to the services
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			...your server will be able to access your data on your current social networks.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Same graphic; arrows pointing inward to distributed network
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			And they will also be able to integrate your server&#8217;s data.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank in police uniform, holding hand out in “stop” gesture; a traffic barricade is in the background.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			But, of course, only if you permit them to.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, enthusiastic
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+This sounds great. But how come I haven&#8217;t heard of it before?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Two guys working at a computer
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Most of the projects so far have been pretty small...
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, CU
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+But in summer of 2010, one project named Diaspora caught everyone&#8217;s imagination.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>11.7</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Background showing lots of overlapping web pages
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			That&#8217;s why you&#8217;re seeing all those articles now.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank &amp; Roberta
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+So, are these distributed networks ready to use right now?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Blueprint, with workers looking at it.
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Some projects are still in the planning stages.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			House being built
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			Others are being built even as we speak.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta and Frank; cozy house in background
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+And some are ready to move into.
+</para>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+So I can&#8217;t just go to a website and - presto - my computer becomes a server?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, plugging in a small computer
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+No. It&#8217;s preferable to set up a second computer to be your server.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>12.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Pioneers with covered wagon in background. They are noble beyond belief, gazing afar into the great frontier, and holding computers. (Yes, I really want a visual clich&#x00e9; here.)
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			That takes a bit of doing, but it&#8217;s a reasonable option for people who have that pioneer spirit.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.1</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Fuse blowing as Frank touches the computer
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Well, I’m no technical wizard! What choice do I have, then?
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.2</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, holding a power supply-sized brick
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+Some projects are under way to create a computer the size of a wall plug....
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.3</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Plug is in the wall, with LCD letters reading "READY"
+		</para>
+	</entry>
+
+	<entry>
+		<para>
+			<emphasis role="bold">Caption:</emphasis>
+			...that already has the software installed to make it act as a server for distributed social networks.
+		</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.4</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Roberta, at screen, with URLs http://wiki.debian.org/FreedomBox and http://foocorp.net/projects/fooplug/
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+For example, the Freedom Box and FooPlug.
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.5</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, grimacing
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+FooPlug? Must have been some tech guy who came up with that name!
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.6</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank, thoughtful
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+But it does sound interesting, and I&#8217;ll definitely keep an eye out for it. Just one more thing...
+</para>
+	</entry>
+</row>
+
+<row>
+	<entry>
+		<para>13.7</para>
+	</entry>
+	
+	<entry>
+		<para>
+			Frank and Roberta; Frank with "puppy-dog eyes", Roberta laughing.
+		</para>
+	</entry>
+
+	<entry>
+<para>
+	<emphasis role="bold">Frank:</emphasis>
+Roberta, when you start using a distributed social networks--will you give me a friend request?
+</para>
+<para>
+	<emphasis role="bold">Roberta:</emphasis>
+It&#8217;s a deal, Frank.
+</para>
+	</entry>
+</row>
+
+
+<!-- end insertion -->
+	</tbody>
+	</tgroup>
+	</informaltable>
+	</sect1>
+<!--
+	<sect1>
+		<title>Figures</title>
+		<figure>
+			<title>Tuan Posting to Central Server</title>
+			<graphic fileref="images/figure1.png"></graphic>
+		</figure>
+		
+		<figure>
+			<title>Frank Signing on to Central Server</title>
+			<graphic fileref="images/figure2.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Illusion of Network Connections</title>
+			<graphic fileref="images/figure3.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Central Server Mediating Connections</title>
+			<graphic fileref="images/figure4.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Tuan and Frank&#8217;s Servers</title>
+			<graphic fileref="images/figure5.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Tuan Posts to His Server</title>
+			<graphic fileref="images/figure6.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Frank&#8217;s Server Connects to Tuan&#8217;s Server</title>
+			<graphic fileref="images/figure7.png"></graphic>
+		</figure>
+
+		<figure>
+			<title>Distributed Network of Friends</title>
+			<graphic fileref="images/figure8.png"></graphic>
+		</figure>
+
+
+	</sect1>
+-->
+</article>
